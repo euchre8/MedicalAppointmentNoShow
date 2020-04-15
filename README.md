@@ -16,6 +16,7 @@ Open anaconda-navigator and install following packages in jupyter notebook envir
     and any package which is required while running the jupyter notebook.
     
 >> Software/Hardware requirements
+>>
     Anaconda Individual Edition
     Jupyter notebook 5.7 and above
     Python 3.x
@@ -23,7 +24,8 @@ Open anaconda-navigator and install following packages in jupyter notebook envir
     System architecture: Windows- 64-bit x86, 32-bit x86; MacOS- 64-bit x86; Linux- 64-bit x86, 64-bit Power8/Power9.
     Minimum 5 GB disk space to download and install.
     
->> Steps to run:
+>> Steps to run
+>>
     1. Open anaconda-navigator
     2. Run a jupyter notebook environment
     3. In the jupyter notebook environment navigate to the directory where the python-notebook is present. (presently in 'Downloads' after you download the files)
